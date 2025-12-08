@@ -26,6 +26,3 @@
 [Scapy HTTP Flood]: https://github.com/0x1byte/Scapy-HTTP-Flood
 [HTTP HTTPS Residential Proxy Checker]: https://github.com/0x1byte/HTTP-HTTPS-Residental-Proxy-Checker
 [Wifi Killer]: https://github.com/0x1byte/wifi-killer
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0x1byte&theme=dark&hide_border=false"/></p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=0x1byte&theme=radical&no-frame=false&no-bg=true&margin-w=4"/></p>
